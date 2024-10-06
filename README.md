@@ -2,9 +2,13 @@
 Desiging and creating a map using Quantum GIS 
 
 ### Project Overview
+---
+Objective: To create a comprehensive geospatial map of Umguza District using Quantum GIS (QGIS) for improved land management, infrastructure planning, and environmental monitoring.
+
+
 ![UMGUZA GIS MAPPING](https://github.com/user-attachments/assets/345382fb-8364-4d3c-998b-40b63d721520)
 
-Objective: To create a comprehensive geospatial map of Umguza District using Quantum GIS (QGIS) for improved land management, infrastructure planning, and environmental monitoring.
+
 Key Steps:
 
     Data Collection:
