@@ -1,3 +1,15 @@
+#Table of Contents
+
+[Project Overview](#project-overview)
+
+[Key Steps](#key-steps)
+
+[Source](#source)
+
+[Tools](#tools)
+
+[Mapping](#mapping)
+
 # GIS-Mapping
 Desiging and creating a map using Quantum GIS 
 
@@ -9,7 +21,7 @@ Objective: To create a comprehensive geospatial map of Umguza District using Qua
 ![UMGUZA GIS MAPPING](https://github.com/user-attachments/assets/345382fb-8364-4d3c-998b-40b63d721520)
 
 
-Key Steps:
+### Key Steps 
 
     Data Collection:
         Gather geospatial data from satellite imagery, existing maps, and field surveys.
@@ -29,7 +41,7 @@ Key Steps:
 ### Source
     Shp Files and Data taken from various websites and they are loaded in the folde.
 
-### Tool
+### Tools
     Quantum GIS
     
 ### Mapping
